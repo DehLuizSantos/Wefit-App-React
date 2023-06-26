@@ -44,6 +44,7 @@ This project was made using the follow technologies:
 - [Typescript](https://www.typescriptlang.org/)
 - [Styled-Components](https://styled-components.com/)
 - [JSON-Server](https://www.npmjs.com/package/json-server)
+- [MANTINE](https://mantine.dev/)
 
 # :construction_worker: How to run
 
@@ -55,12 +56,12 @@ This project was made using the follow technologies:
 yarn
 
 Make a .env-local file
-fill the file with your database informations and baseUrl "http://localhost:3000" (local)"
+fill the file with your database informations and baseUrl "http://localhost:3001" (local)"
 
 ### Run Aplication
 
 ```bash
-yarn start - start aplication on ReactJS
+yarn start - start aplication on ReactJS - start aplication on JSON-server (Mock - DATABASE)
 yarn server - start aplication on JSON-server (Mock - DATABASE)
 
 ````
